@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationExample
+
+  Created by kafein on 14.09.2022.
+  
+*/
+
+"welcome" = "Hoşgeldiniz";
+"nameLabel" = "İsim";
